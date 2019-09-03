@@ -5,7 +5,9 @@ html {
   font-size: 14px;
 }
 body {
-  background-color: #f7f7f7;
+  background-color: rgba(181,168,168,0.831);
+  background-image: url("../images/bg.jpg");
+  background-size: contain;
 }
 body,
 button,
