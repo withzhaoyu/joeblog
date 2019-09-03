@@ -1,6 +1,7 @@
 .ins-section-container {
     position: relative;
-    background: #f7f7f7;
+    background: #b5a8a8d4;
+    background-image: url('../images/bg.jpg') repeat;
 }
 
 .ins-section {
