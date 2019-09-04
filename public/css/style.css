@@ -84,6 +84,7 @@ img.thumbnail {
 }
 .navbar-main {
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  background: rgba(50,115,220,0.169);
 }
 .navbar-main .navbar-menu,
 .navbar-main .navbar-start,
@@ -128,7 +129,7 @@ img.thumbnail {
   }
 }
 .footer {
-  background: #fff;
+  background: rgba(50,115,220,0.169);
 }
 .footer .field .button {
   background: transparent;
