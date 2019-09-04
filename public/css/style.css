@@ -118,6 +118,7 @@ img.thumbnail {
 }
 @media screen and (max-width: 1087px) {
   .navbar-main .navbar-menu {
+    background: rgba(50,115,220,0.169);
     justify-content: center;
     box-shadow: none;
   }
