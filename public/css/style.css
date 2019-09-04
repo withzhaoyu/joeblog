@@ -7,7 +7,7 @@ html {
 body {
   background-color: rgba(181,168,168,0.831);
   background-image: url("../images/bg.jpg");
-  background-size: contain;
+  background-size: auto;
 }
 body,
 button,
